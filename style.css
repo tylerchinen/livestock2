@@ -1,0 +1,44 @@
+.ui.borderless.topmenu.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  margin: 0px;
+  border-radius: none;
+}
+
+.ui.menu .item {
+  font-size: 18px;
+  color: black;
+  font-family: "IM Fell English";
+}
+.text {
+  color: black;
+}
+
+.mainpage {
+  background: url('http://livestocktavern.com/img/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 670px;
+}
+.ui.centered.image {
+  padding-top: 25%;
+}
+.imgtext.text {
+  font-family: "IM Fell English";
+  color: white;
+  font-size: 20px;
+}
+
+#reservebutton {
+  background-color: rgb(223, 209, 189);
+  font-family: "IM Fell English";
+}
+
+.footer-background {
+  background-color: white;
+  color: black;
+  font-family: "IM Fell English";
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
